@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Uma frase de efeito para a prosperidade!!</h1>
+    return <h1>Fazendo os testes de novos deploys</h1>
 }
 
 export default Home;
