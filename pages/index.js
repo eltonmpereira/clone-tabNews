@@ -1,5 +1,6 @@
 function Home(){
-    return <h1>Fazendo os testes de novos deploys</h1>
+    return <h1>Isso é um teste, testando de verdade uma página na internet!!</h1>
+    
 }
 
 export default Home;
